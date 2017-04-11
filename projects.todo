@@ -1,0 +1,40 @@
+Projects (0/27):
+
+[w.i.p] work in progress
+[DONE] project done
+
+QT (0/8):
+
+[ ] calculator
+[ ] text editor
+[ ] probability simulator (like a certain amount of rolling dice or two etc and draw a graph)
+[ ] password generator + hash
+[ ] image viewer
+[ ] database editor
+[ ] web browser
+[ ] chat (QTnetworking library)
+
+SFML (0/13):
+
+[ ] langton's ant
+[ ] game of life conway
+[ ] pong
+[ ] morpion
+[ ] 4 in a row (puissance 4)
+[ ] labyrinth (+ pathfinding)
+[ ] snake
+[ ] tetris
+[ ] brick-breaker
+[ ] 2D light (in a game with walls because it looks so cool)
+[ ] flappy bird like
+[ ] 2D platformer
+[ ] checker game
+[ ] Chess game
+
+QT + SFML (0/6):
+[ ] graph maker-editor (with saving and opening with extension like .graph or something like that)
+[ ] image editor (like gimp)
+[ ] paint(+ img editor)
+[ ] vectorial drawing
+[ ] 2D platformer + level editor
+[ ] 2D simulation/game with fluid/fluids
