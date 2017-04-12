@@ -33,6 +33,7 @@ SFML (0/14):
 [ ] Chess game
 
 QT + SFML (0/6):
+
 [ ] graph maker-editor (with saving and opening with extension like .graph or something like that)
 [ ] image editor (like gimp)
 [ ] paint(+ img editor)
