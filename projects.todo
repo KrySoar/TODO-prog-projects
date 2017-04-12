@@ -1,9 +1,9 @@
-Projects (0/28):
+Projects (0/29):
 
 [w.i.p] work in progress
 [DONE] project done
 
-QT (0/8):
+QT (0/9):
 
 [ ] calculator
 [ ] text editor
@@ -11,6 +11,7 @@ QT (0/8):
 [ ] password generator + hash
 [ ] image viewer
 [ ] database editor
+[ ] pattern lock
 [ ] web browser
 [ ] chat (QTnetworking library)
 
