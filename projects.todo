@@ -1,11 +1,11 @@
-Projects (0/29):
+Projects (0/28):
 
 [w.i.p] work in progress
 [DONE] project done
 
 QT (0/9):
 
-[ ] calculator
+[ ] TicTacToe
 [ ] text editor
 [ ] probability simulator (like a certain amount of rolling dice or two etc and draw a graph)
 [ ] password generator + hash
@@ -15,12 +15,11 @@ QT (0/9):
 [ ] web browser
 [ ] chat (QTnetworking library)
 
-SFML (0/14):
+SFML (0/13):
 
 [ ] langton's ant
 [ ] game of life conway
 [ ] pong
-[ ] morpion
 [ ] 4 in a row (puissance 4)
 [ ] labyrinth (+ pathfinding)
 [ ] snake
