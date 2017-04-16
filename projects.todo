@@ -1,11 +1,11 @@
-Projects (0/28):
+Projects (1/28):
 
 [w.i.p] work in progress
 [DONE] project done
 
-QT (0/9):
+QT (1/9):
 
-[W.I.P] TicTacToe
+[DONE] TicTacToe
 [ ] text editor
 [ ] probability simulator (like a certain amount of rolling dice or two etc and draw a graph)
 [ ] password generator + hash
