@@ -20,7 +20,7 @@ SFML (0/14):
 [ ] spirograph
 [ ] langton's ant
 [ ] game of life conway
-[ ] pong
+[DONE] pong
 [ ] 4 in a row (puissance 4)
 [W.I.P] labyrinth (+ pathfinding)
 [ ] snake
