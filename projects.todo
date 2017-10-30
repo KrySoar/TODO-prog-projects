@@ -1,12 +1,13 @@
-Projects (1/29):
+Projects (2/30):
 
 [w.i.p] work in progress
 [DONE] project done
 
-QT (1/9):
+QT (1/10):
 
 [DONE] TicTacToe
 [W.I.P] text editor
+[ ] graphing calculator
 [ ] probability simulator (like a certain amount of rolling dice or two etc and draw a graph)
 [ ] password generator + hash
 [ ] image viewer
@@ -15,7 +16,7 @@ QT (1/9):
 [ ] web browser
 [ ] chat (QTnetworking library)
 
-SFML (0/14):
+SFML (1/14):
 
 [ ] spirograph
 [ ] langton's ant
