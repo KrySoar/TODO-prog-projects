@@ -1,12 +1,13 @@
-Projects (2/30):
+Projects (2/31):
 
 [w.i.p] work in progress
 [DONE] project done
 
-QT (1/10):
+QT (1/11):
 
 [DONE] TicTacToe
 [W.I.P] text editor
+[ ] calculator with a string as an input
 [ ] graphing calculator
 [ ] probability simulator (like a certain amount of rolling dice or two etc and draw a graph)
 [ ] password generator + hash
