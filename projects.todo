@@ -3,7 +3,7 @@ Projects (2/31):
 [w.i.p] work in progress
 [DONE] project done
 
-QT (1/11):
+Qt :
 
 [DONE] TicTacToe
 [W.I.P] text editor
@@ -17,19 +17,19 @@ QT (1/11):
 [ ] web browser
 [ ] chat (QTnetworking library)
 
-SFML (1/14):
+SFML :
 
 [ ] spirograph
 [ ] langton's ant
 [ ] game of life conway
 [DONE] pong
 [ ] 4 in a row (puissance 4)
-[W.I.P] labyrinth (+ pathfinding)
-[ ] snake
+[ ] labyrinth (+ pathfinding)
+[W.I.P] snake
 [ ] tetris
 [ ] brick-breaker
 [ ] 2D light (in a game with walls because it looks so cool)
-[ ] flappy bird like
+[DONE] flappy bird like
 [ ] 2D platformer
 [ ] checker game
 [ ] Chess game
