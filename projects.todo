@@ -25,7 +25,7 @@ SFML :
 [DONE] pong
 [ ] 4 in a row (puissance 4)
 [ ] labyrinth (+ pathfinding)
-[W.I.P] snake
+[DONE] snake : https://github.com/KrySoar/SnakeGame
 [ ] tetris
 [ ] brick-breaker
 [ ] 2D light (in a game with walls because it looks so cool)
