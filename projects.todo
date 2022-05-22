@@ -3,6 +3,11 @@ Projects (2/31):
 [w.i.p] work in progress
 [DONE] project done
 
+Rust {
+CLI Projects :
+  [ ] Project line counter (hmloc)
+}
+
 Qt :
 
 [DONE] TicTacToe
@@ -42,4 +47,4 @@ QT + SFML (0/6):
 [ ] paint(+ img editor)
 [ ] vectorial drawing
 [ ] 2D platformer + level editor
-[ ] 2D simulation/game with fluid/fluids
+[ ] 2D simulation/game with fluids
