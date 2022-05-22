@@ -4,8 +4,8 @@ Projects (2/31):
 [DONE] project done
 
 Rust {
-CLI Projects :
-  [ ] Project line counter (hmloc)
+  [ ] CLI HowManyLinesOfCode line counter (hmloc)
+  [ ] Chip-8 emulator
 }
 
 Qt :
