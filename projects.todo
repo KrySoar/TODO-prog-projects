@@ -6,6 +6,8 @@ Future and DONE Programming projects ideas
 Rust {
   [ ] CLI HowManyLinesOfCode line counter (hmloc)
   [ ] CLI Game using unicode emojies "https://unicode.org/emoji/charts/full-emoji-list.html"
+  [ ] CLI Image Viewer using colored unicode blocks
+  [ ] Raycaster
   [ ] Chip-8 emulator
 }
 
