@@ -5,6 +5,7 @@ Future and DONE Programming projects ideas
 
 Rust {
   [ ] CLI HowManyLinesOfCode line counter (hmloc)
+  [ ] Music reactive keyboard backlight (maybe soundio crate)
   [DONE] CLI Conway's game of life
   [ ] CLI Game using unicode emojies "https://unicode.org/emoji/charts/full-emoji-list.html"
   [ ] CLI Image Viewer using colored unicode blocks
@@ -43,7 +44,7 @@ SFML :
 [ ] checker game
 [ ] Chess game
 
-QT + SFML (0/6):
+QT + SFML :
 
 [ ] Pixel art maker 
 [ ] graph maker-editor (with saving and opening with extension like .graph or something like that)
