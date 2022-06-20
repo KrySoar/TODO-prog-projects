@@ -13,6 +13,10 @@ Rust {
   [ ] Chip-8 emulator
 }
 
+Opencv {
+  [ ] Hand on cam mouse controller
+}
+
 Qt :
 
 [DONE] TicTacToe
