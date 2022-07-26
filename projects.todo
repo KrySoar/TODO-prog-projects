@@ -7,6 +7,7 @@ Rust {
   [ ] CLI HowManyLinesOfCode line counter (hmloc)
   [ ] Music reactive keyboard backlight (maybe soundio or alsa crate)
   [DONE] CLI Conway's game of life
+  [ ] Disassembler
   [ ] CLI Game using unicode emojies "https://unicode.org/emoji/charts/full-emoji-list.html"
   [ ] CLI Image Viewer using colored unicode blocks
   [ ] Raycaster
