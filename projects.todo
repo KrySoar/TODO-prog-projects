@@ -5,6 +5,7 @@ Future and DONE Programming projects ideas
 
 Rust {
   [ ] CLI HowManyLinesOfCode line counter (hmloc)
+  [ ] Online Bot
   [ ] Music reactive keyboard backlight (maybe soundio or alsa crate)
   [DONE] CLI Conway's game of life
   [ ] Disassembler
