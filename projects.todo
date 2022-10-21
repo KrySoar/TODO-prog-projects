@@ -3,7 +3,7 @@ Future and DONE Programming projects ideas
 [w.i.p] work in progress
 [DONE] project done
 
-Rust {
+Rust / C++ {
   [ ] CLI HowManyLinesOfCode line counter (hmloc)
   [ ] Online Bot
   [ ] Music reactive keyboard backlight (maybe soundio or alsa crate)
@@ -14,6 +14,7 @@ Rust {
   [ ] CLI Image Viewer using colored unicode blocks
   [ ] Raycaster
   [ ] Chip-8 emulator
+  [ ] Fractal compression
 }
 
 Opencv {
