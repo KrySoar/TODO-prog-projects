@@ -11,6 +11,7 @@ Rust / C++ {
   [DONE] CLI Conway's game of life : https://github.com/KrySoar/terminal-game-of-life
   [ ] Basic interpreter
   [ ] Disassembler
+  [ ] CLI Chess game
   [ ] CLI Game using unicode emojies "https://unicode.org/emoji/charts/full-emoji-list.html"
   [ ] CLI Image Viewer using colored unicode blocks
   [ ] Raycaster
