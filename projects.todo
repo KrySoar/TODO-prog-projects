@@ -8,7 +8,7 @@ Rust / C++ {
   [ ] Bitmap (.BMP) Image Parser
   [ ] Online Bot
   [ ] Music reactive keyboard backlight (maybe soundio or alsa crate)
-  [DONE] CLI Conway's game of life
+  [DONE] CLI Conway's game of life : https://github.com/KrySoar/terminal-game-of-life
   [ ] Basic interpreter
   [ ] Disassembler
   [ ] CLI Game using unicode emojies "https://unicode.org/emoji/charts/full-emoji-list.html"
