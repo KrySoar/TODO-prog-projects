@@ -17,6 +17,10 @@ Rust / C++ {
   [ ] Raycaster
   [ ] Chip-8 emulator
   [ ] Fractal compression
+  
+  AI {
+    [ ] ML autoplay Game
+  }
 }
 
 Opencv {
