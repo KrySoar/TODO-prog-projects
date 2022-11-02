@@ -5,6 +5,7 @@ Future and DONE Programming projects ideas
 
 Rust / C++ {
   [ ] CLI HowManyLinesOfCode line counter (hmloc)
+  [ ] Bitmap (.BMP) Image Parser
   [ ] Online Bot
   [ ] Music reactive keyboard backlight (maybe soundio or alsa crate)
   [DONE] CLI Conway's game of life
