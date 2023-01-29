@@ -4,15 +4,12 @@ Future and DONE Programming projects ideas
 [DONE] project done
 
 Rust / C++ {
-  [ ] CLI HowManyLinesOfCode line counter (hmloc)
   [ ] Bitmap (.BMP) Image Parser
   [ ] Online Bot
-  [ ] Music reactive keyboard backlight (maybe soundio or alsa crate)
   [DONE] CLI Conway's game of life : https://github.com/KrySoar/terminal-game-of-life
   [ ] Basic interpreter
   [ ] Disassembler
   [ ] CLI Chess game
-  [ ] CLI Game using unicode emojies "https://unicode.org/emoji/charts/full-emoji-list.html"
   [ ] CLI Image Viewer using colored unicode blocks
   [ ] Raycaster
   [ ] Chip-8 emulator
@@ -30,24 +27,18 @@ Opencv {
 Qt :
 
 [DONE] TicTacToe
-[W.I.P] text editor
-[ ] calculator with a string as an input
 [ ] graphing calculator
-[ ] probability simulator (like a certain amount of rolling dice or two etc and draw a graph)
-[ ] password generator + hash
 [ ] image viewer
-[ ] database editor
 [ ] pattern lock
 [ ] web browser
-[ ] chat (QTnetworking library)
 
 SFML :
 
-[ ] spirograph
+[DONE] spirograph : https://github.com/KrySoar/Spirograph
+[ ] sorting algorithm visualizer
 [ ] langton's ant
 [ ] game of life conway
 [DONE] pong
-[ ] 4 in a row (puissance 4)
 [ ] labyrinth (+ pathfinding)
 [DONE] snake : https://github.com/KrySoar/SnakeGame
 [ ] tetris
