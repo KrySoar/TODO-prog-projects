@@ -20,10 +20,6 @@ Rust / C++ {
   }
 }
 
-Opencv {
-  [ ] Hand on cam mouse controller
-}
-
 Qt :
 
 [DONE] TicTacToe
@@ -35,7 +31,7 @@ Qt :
 SFML :
 
 [DONE] spirograph : https://github.com/KrySoar/Spirograph
-[ ] sorting algorithm visualizer
+[~DONE] sorting algorithm visualizer https://github.com/KrySoar/sortingVisualizer
 [ ] langton's ant
 [ ] game of life conway
 [DONE] pong
@@ -45,7 +41,7 @@ SFML :
 [ ] brick-breaker
 [ ] 2D light (in a game with walls because it looks so cool)
 [DONE] flappy bird like
-[ ] 2D platformer
+[W.I.P] 2D platformer
 [ ] checker game
 [ ] Chess game
 
